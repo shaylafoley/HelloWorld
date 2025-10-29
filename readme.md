@@ -1,23 +1,20 @@
 # Overview
 
-{Important!  Do not say in this section that this is college assignment.  Talk about what you are trying to accomplish as a software engineer to further your learning.}
+Hello World Example Project
 
-{Provide a description of your software}
+The purpose of this project is to make sure I understand how to create a public repository in GitHub.
 
-{Describe your purpose for creating this software.}
-
-{Provide a link to your YouTube demonstration.  It should be a one minute demo of the software running and a walkthrough of the code.}
 
 [Software Demo Video](http://youtube.link.goes.here)
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
+Visual Studio Code
 
-{Describe the programming language that you used}
+Python
 
 # Useful Websites
 
 {Make a list of websites that you found helpful in this project}
-* [Web Site Name](http://url.link.goes.here)
-* [Web Site Name](http://url.link.goes.here)
+* Python for beginners (https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.python.org/about/gettingstarted/&ved=2ahUKEwiNksuy5MmQAxVqRDABHRNCO-wQFnoECBkQAQ&usg=AOvVaw1MxcY_lBYm1drnwuZfanDa)
+* Introduction to Python(https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.w3schools.com/python/python_intro.asp&ved=2ahUKEwiNksuy5MmQAxVqRDABHRNCO-wQFnoECBgQAQ&usg=AOvVaw1R74wwZQRTB_vovQYy0RVg)
