@@ -5,7 +5,7 @@ Hello World Example Project
 The purpose of this project is to make sure I understand how to create a public repository in GitHub.
 
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video]https://somup.com/cT6UDo93hK
 
 # Development Environment
 
